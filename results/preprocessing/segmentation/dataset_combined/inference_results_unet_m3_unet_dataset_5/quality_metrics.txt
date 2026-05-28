@@ -1,0 +1,53 @@
+Quality Metrics
+==============================
+Average IoU: 0.8535
+Average Wrong Pixels Ratio: 3.19%
+==============================
+
+Detailed per-image metrics:
+1_zygo_a.bmp: IoU=0.9258, Wrong Pixels Ratio=1.00%
+2_zygo.bmp: IoU=0.9802, Wrong Pixels Ratio=0.28%
+74_zygo.bmp: IoU=0.3563, Wrong Pixels Ratio=34.38%
+79_zygo_a.bmp: IoU=0.5020, Wrong Pixels Ratio=19.36%
+He_NE_4Prouzky_A_00_03.bmp: IoU=0.8901, Wrong Pixels Ratio=1.22%
+He_NE_4Prouzky_A_00_03_a.bmp: IoU=0.7916, Wrong Pixels Ratio=3.11%
+He_NE_4Prouzky_B_00_02.bmp: IoU=0.8288, Wrong Pixels Ratio=2.01%
+He_NE_4Prouzky_B_00_04.bmp: IoU=0.7589, Wrong Pixels Ratio=3.10%
+He_NE_ViceProuzku_B_00_04.bmp: IoU=0.7533, Wrong Pixels Ratio=3.15%
+He_NE_ViceProuzku_B_00_04_a.bmp: IoU=0.8825, Wrong Pixels Ratio=1.30%
+R2_zygo_a.bmp: IoU=0.8074, Wrong Pixels Ratio=1.61%
+RWE-56311-PLANPLATE 45_zygo_a.bmp: IoU=0.9641, Wrong Pixels Ratio=0.51%
+Sled_4Prouzky_A_00_01.bmp: IoU=0.9700, Wrong Pixels Ratio=0.31%
+Sled_ViceProuzku_A_00_01.bmp: IoU=0.9145, Wrong Pixels Ratio=0.92%
+Sled_ViceProuzku_A_00_01_a.bmp: IoU=0.8887, Wrong Pixels Ratio=1.28%
+Sled_ViceProuzku_B_00_02.bmp: IoU=0.7943, Wrong Pixels Ratio=2.54%
+Sled_ViceProuzku_B_00_02_a.bmp: IoU=0.6449, Wrong Pixels Ratio=6.45%
+Sled_ViceProuzku_B_00_04.bmp: IoU=0.8259, Wrong Pixels Ratio=2.07%
+Sled_ViceProuzku_B_00_04_a.bmp: IoU=0.9106, Wrong Pixels Ratio=0.94%
+aR2_zygo_a.bmp: IoU=0.8537, Wrong Pixels Ratio=1.42%
+b7_obdelnik.bmp: IoU=0.9379, Wrong Pixels Ratio=0.86%
+c4_obdelnik.bmp: IoU=0.7056, Wrong Pixels Ratio=3.48%
+c4_obdelnik_a.bmp: IoU=0.8319, Wrong Pixels Ratio=1.68%
+fpg_1.bmp: IoU=0.7466, Wrong Pixels Ratio=6.41%
+fpg_129.bmp: IoU=0.9592, Wrong Pixels Ratio=0.76%
+fpg_165.bmp: IoU=0.9952, Wrong Pixels Ratio=0.11%
+fpg_167.bmp: IoU=0.9237, Wrong Pixels Ratio=1.80%
+fpg_182.bmp: IoU=0.9873, Wrong Pixels Ratio=0.32%
+fpg_187.bmp: IoU=0.7484, Wrong Pixels Ratio=7.07%
+fpg_192.bmp: IoU=0.9914, Wrong Pixels Ratio=0.16%
+fpg_205.bmp: IoU=0.7465, Wrong Pixels Ratio=3.80%
+fpg_336.bmp: IoU=0.9877, Wrong Pixels Ratio=0.26%
+fpg_340.bmp: IoU=0.7517, Wrong Pixels Ratio=3.46%
+fpg_348.bmp: IoU=0.9561, Wrong Pixels Ratio=0.72%
+fpg_363.bmp: IoU=0.9728, Wrong Pixels Ratio=0.45%
+fpg_380.bmp: IoU=0.9792, Wrong Pixels Ratio=0.40%
+fpg_382.bmp: IoU=0.9763, Wrong Pixels Ratio=0.40%
+fpg_408.bmp: IoU=0.7506, Wrong Pixels Ratio=5.92%
+fpg_429.bmp: IoU=0.9656, Wrong Pixels Ratio=0.45%
+fpg_45.bmp: IoU=0.7471, Wrong Pixels Ratio=7.96%
+fpg_455.bmp: IoU=0.7421, Wrong Pixels Ratio=5.42%
+fpg_47.bmp: IoU=0.7477, Wrong Pixels Ratio=4.99%
+fpg_472.bmp: IoU=0.9487, Wrong Pixels Ratio=0.86%
+fpg_60.bmp: IoU=0.9454, Wrong Pixels Ratio=1.20%
+fpg_76.bmp: IoU=0.9955, Wrong Pixels Ratio=0.09%
+fpg_82.bmp: IoU=0.9747, Wrong Pixels Ratio=0.76%
