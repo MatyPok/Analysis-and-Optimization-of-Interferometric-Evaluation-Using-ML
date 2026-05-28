@@ -1,0 +1,42 @@
+{"compute_with_noise" : true,
+ "num_of_sets" : 10000,
+ "model" : "resnet",
+ "loss_function": "combined",
+ "resolution": 224,
+ "dropout_rate": 0.5,
+ "epochs": 300, 
+ "batch_size": 128,
+ "lr": 1e-3,
+ "weight_decay": 1e-2,
+ "phase_loss_weight": 1.0,
+ "coef_start_epoch": 0.3,
+ "huber_delta": 0.1,
+
+ "pretrained": true,
+ "fine_tuning":false,
+ "freeze_backbone": false,
+
+ "normalize_y": true,
+ "normalize_X": false,
+ "normalize_tilt": false,
+ "weight_loss": true,
+ "correlation_loss": false,
+
+ "use_fft":false,
+ "use_fft_no_dc":false,
+
+ "datadir": "/storage/projects-du-praha/CVUT_Fsv_AO/Matyas_DP/zernikes_phases/data/intens_phases_tilt_target_zernikes_224x224_10k_k1_mag_40_60_noiseNonedb_Zs_A",
+
+ "walltime": "05:00:00",
+ "gpu": true,
+ "resources": {"ncpus": "1", "ngpus": "1", "mem": "128gb", "gpu_mem": "32gb", "scratch_local": "32gb"},
+
+ "data_base_path": "/storage/projects-du-praha/CVUT_Fsv_AO/Matyas_DP/zernikes_phases/data/",
+ "output_base_path": "/storage/projects-du-praha/CVUT_Fsv_AO/Matyas_DP/zernikes_phases/training/Zs_A_mag_40_60_NonedB_224x224/",
+
+ "additional_notes": "wd_2_lr_3_hd_0.1"
+}
+
+
+ 
+

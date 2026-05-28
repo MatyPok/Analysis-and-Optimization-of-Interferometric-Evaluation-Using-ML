@@ -1,0 +1,1 @@
+19876916.pbs-m1.metacentrum.cz is running on node bee6.cerit-sc.cz in a scratch directory /scratch.ssd/pokorm28/job_19876916.pbs-m1
