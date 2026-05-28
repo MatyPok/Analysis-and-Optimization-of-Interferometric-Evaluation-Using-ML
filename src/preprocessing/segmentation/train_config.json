@@ -1,0 +1,23 @@
+{ "num_of_sets" : null,
+ "model_num_refiner" : 1,
+ "model_num_unet" : 3,
+ "pretrained" : true,
+ "mode" : "unet",
+ "version" : 1,
+
+ "loss_function": "mse",
+ "max_resolution": 1984,
+ "epochs": 300,
+ "batch_size": 64,
+ "learning_rate": 1e-4,
+
+ "dataset": "unet_dataset_6",
+
+ "walltime": "60:00:00",
+ "gpu": false,
+ "resources": {"ncpus": "1", "ngpus": "0", "mem": "32gb", "gpu_mem": "10gb", "scratch_local": "32gb"},
+
+ "output_base_path": "/storage/projects-du-praha/CVUT_Fsv_AO/Matyas_DP/segmentation",
+
+ "additional_notes": ""
+}

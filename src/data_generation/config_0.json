@@ -1,0 +1,28 @@
+{  
+"wavelength": 632.8e-9,
+"image_size": 464,
+"max_phase_times_pi": 6,    
+"num_samples": 10000,
+"A": 0.5,
+"B": 0.5,
+"carrier_magnitude_range": [0.0, 0.00],
+"intens_filename": "intensity_circular",
+"phases_filename": "phases_circular",
+"coeff_filename": "target_coefficients",
+"tilt_filename": "tilt",
+"fft_filename": "fft_log_norm",
+"fft_no_dc_filename": "fft_log_norm_minus_dc",
+"calculation_params_filename": "calculation_params.txt",
+"noise_params": {  
+    "apply_noise": true,
+    "snr_sensor_db": 40,
+    "snr_interf_db": 40,
+    "var_snr": true,
+    "sigma1_gaussian": 0.01, 
+    "sigma2_poisson": 0.02,   
+    "mu3_dark_current": 0.005, 
+    "sigma3_dark_current": 0.01,
+    "sigma_speckle": 0.05,
+    "sigma_phase": 0.01
+}
+}
