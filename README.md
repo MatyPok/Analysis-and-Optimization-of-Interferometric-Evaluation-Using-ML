@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository supports a master-level research project exploring the analysis and optimization of interferometric evaluation in optical metrology through machine learning techniques. The work combines synthetic data generation, image preprocessing, segmentation, and regression-based Zernike coefficient prediction to improve the evaluation of interferometric measurements.
+This repository supports a master thesis research exploring the analysis and optimization of interferometric evaluation in optical metrology through machine learning techniques. The work combines synthetic data generation, image preprocessing, segmentation, and regression-based Zernike coefficient prediction to improve the evaluation of interferometric measurements.
 
 ## Project Scope
 
